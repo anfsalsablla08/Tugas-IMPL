@@ -1,0 +1,4 @@
+Generic Process Model
+  1. Communications
+  2. Planning
+  3. Modeling
