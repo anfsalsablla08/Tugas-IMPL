@@ -2,3 +2,5 @@ Generic Process Model
   1. Communications
   2. Planning
   3. Modeling
+  4. Contructions
+  5. Deployment
