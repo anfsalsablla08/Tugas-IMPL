@@ -1,0 +1,3 @@
+Cara Kerja GIT
+  1. Branch
+  2. Merge
